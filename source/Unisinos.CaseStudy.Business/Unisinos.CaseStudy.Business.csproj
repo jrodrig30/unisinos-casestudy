@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Unisinos.CaseStudy.Data\Unisinos.CaseStudy.Data.csproj" />
+    <ProjectReference Include="..\Unisinos.CaseStudy.Shared\Unisinos.CaseStudy.Shared.csproj" />
+  </ItemGroup>
+
+</Project>
